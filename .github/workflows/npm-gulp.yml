@@ -1,5 +1,5 @@
 name: NodeJS with Gulp
-
+[![NodeJS with Gulp](https://github.com/diaztorresangeladrian61/smart-token-list/actions/workflows/npm-gulp.yml/badge.svg)](https://github.com/diaztorresangeladrian61/smart-token-list/actions/workflows/npm-gulp.yml)
 on:
   push:
     branches: [ "main" ]
